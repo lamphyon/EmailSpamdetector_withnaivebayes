@@ -1,6 +1,11 @@
 # 📧 Deteksi Spam Email dengan Algoritma Naive Bayes
 
-Halooo! Dokumentasi ini menjelaskan konsep dasar di balik pendeteksian email spam menggunakan algoritma **Naive Bayes**, mulai dari teori matematika dasar hingga cara membaca hasil evaluasi modelnya.
+Kelas Probabilistik dan Statistik (F) \
+Anggote Kelompok 6:
+1. Fauzan Hafiz Amandani (5025241087)
+2. Willy Dava Nugraha (5025241090)
+3. Farras Abdurrazaq Ar rasyid (5025241091)
+4. Abdullah Sultan Barizy (5025241092)
 
 ---
 
@@ -86,7 +91,10 @@ Setelah model selesai dilatih dan diuji, kita akan mendapatkan metrik evaluasi. 
 
 - Heatmap
 
+<img width="522" height="470" alt="image" src="https://github.com/user-attachments/assets/5835d87e-8823-44f7-ac6e-74cfaa8e4aaf" />
 
 - Verdict for some test cases
+
+<img width="1251" height="464" alt="image" src="https://github.com/user-attachments/assets/708115b4-a031-4ce3-b956-2193de14590f" />
 
 
