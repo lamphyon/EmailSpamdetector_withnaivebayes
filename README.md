@@ -10,6 +10,8 @@ Anggote Kelompok 6:
 3. Farras Abdurrazaq Ar rasyid (5025241091)
 4. Abdullah Sultan Barizy (5025241092)
 
+- link google colab notebook: https://colab.research.google.com/drive/1RXhdGO3n70zujO1GyN8liFN_5VF0OVYf#scrollTo=Uj3VIVZtCwvr
+
 ---
 
 ## 1. Memahami Teori Bayes (Bayes' Theorem)
