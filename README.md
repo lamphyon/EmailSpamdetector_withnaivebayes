@@ -2,6 +2,9 @@
 
 Kelas Probabilistik dan Statistik (F) \
 Anggote Kelompok 6:
+Kelas Probabilistik dan Statistik (F)
+Anggote Kelompok 6:
+
 1. Fauzan Hafiz Amandani (5025241087)
 2. Willy Dava Nugraha (5025241090)
 3. Farras Abdurrazaq Ar rasyid (5025241091)
